@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #62b371;
+  height: 100vh;
+  font-size: 1rem;
+  color: #fffdd9;
+  /* text-align: center; */
+}
+.container {
+  width: 50vw;
+  padding: 10px;
+}
+.btn-expand {
+  background: none;
+  border: none;
+  padding: 5px 10px;
+  background-color: #ffc0cb;
+  border-radius: 5px;
+}
